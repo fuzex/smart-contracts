@@ -1,0 +1,2 @@
+# smartcontract
+Fuzex Smart Contract
