@@ -1,6 +1,6 @@
-# smartcontract
+# Smartcontract
 
-Fuzex PreSale Smart Contract
+Fuzex PreSale Smart Contract             
 https://etherscan.io/address/0x8b316d06fed5626f051753ae2c2ef80c3c9435f4#code
 
 Fuzex KYC Smart Contract     
