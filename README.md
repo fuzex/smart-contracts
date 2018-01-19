@@ -3,7 +3,7 @@
 Fuzex PreSale Smart Contract
 https://etherscan.io/address/0x8b316d06fed5626f051753ae2c2ef80c3c9435f4#code
 
-Fuzex KYC Smart Contract
+Fuzex KYC Smart Contract     
 https://etherscan.io/address/0xc9e8045616abbdf535fda1fdbfe04b4f42101b2e#code
 
 Fuzex FXT Token Smart Contract 
