@@ -4,5 +4,5 @@
 + [KYC Smart Contract](https://etherscan.io/address/0xc9e8045616abbdf535fda1fdbfe04b4f42101b2e#code)
 + [PreSaleValut Smart Contract](https://etherscan.io/address/0xda6d5a2ec190562cbd8c50f13faa8c1a43a04461#code)
 
-# Bug Bounty(currently, deprecated)
-+ [policy](https://docs.google.com/presentation/d/1dBcJdcBeUg6X607434mPsEo7DnbCMMPumchwb_4mNnw/edit#slide=id.p)
+# Bug Bounty
++ [policy](https://docs.google.com/presentation/d/1dBcJdcBeUg6X607434mPsEo7DnbCMMPumchwb_4mNnw/edit#slide=id.p) (currently, deprecated)
